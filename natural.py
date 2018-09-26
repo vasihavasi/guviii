@@ -1,3 +1,4 @@
+#program is natural numbers
 num = int(input(" "))
 hold = num
 sum = 0
